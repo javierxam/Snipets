@@ -52,12 +52,12 @@ public class SnipetsVariables {
     char c = "hola".charAt(3);
     System.out.println ("c = " + c);
         
-    var scanner = new Scanner(System.in);
-    edad2  = Integer.parseInt(scanner.nextLine());
+    var scanner2 = new Scanner(System.in);
+    edad2  = Integer.parseInt(scanner2.nextLine());
 
     System.out.println ("edad = " + edad2);
         
-    char caracter = scanner.nextLine().charAt(0);
+    char caracter = scanner2.nextLine().charAt(0);
 
     System.out.println ("caracter = " + caracter);
         
