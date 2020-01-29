@@ -12,9 +12,34 @@ import java.util.Scanner;
  * @author Xavi
  */
 public class Snipets {
+    
+    
+    
+    
+       public static void main(String[] args) {
 //====================================================================================
-    public static void main(String[] args) {
-        
+    
+    
+    //Introducir datos por consola
+    
+    var scanner = new Scanner(System.in);
+    String nombre = scanner.nextLine();
+    
+           System.out.println("nombre = " + nombre);
+     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+ 
+//====================================================================================        
     
     /*MANEJO DE STRINGS Y CARACTERES*/
     //convertir un String a un tipo int 
