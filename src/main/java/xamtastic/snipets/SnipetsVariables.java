@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Xavi
  */
-public class Snipets {
+public class SnipetsVariables {
     
     
     
